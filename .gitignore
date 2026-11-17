@@ -1,0 +1,4 @@
+.build/
+dist/
+references/
+.DS_Store
