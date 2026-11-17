@@ -1,9 +1,10 @@
 AccountSwitch
 Copyright 2026 AccountSwitch contributors
 
-The account-list and switching workflow was inspired by Account Switcher
-by Bigwig Club and its contributors, released under Apache License 2.0.
-https://github.com/Bigwig-Club/Account-Switcher
+The design of the account list and switching workflow was inspired by
+Account-Switcher v1.2.0 by Licardo and the Bigwig Club contributors.
+Upstream source: https://github.com/Bigwig-Club/Account-Switcher/tree/v1.2.0
+Upstream license (Apache License 2.0): https://github.com/Bigwig-Club/Account-Switcher/blob/v1.2.0/LICENSE
 
 App Store availability data is based on Apple's public support page.
 https://support.apple.com/en-us/118205

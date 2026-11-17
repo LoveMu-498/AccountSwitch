@@ -35,4 +35,8 @@ swift test
 
 ## 许可与致谢
 
-本项目使用 [Apache License 2.0](LICENSE)。账号列表和切换流程受到 [Bigwig Club 的 Account Switcher](https://github.com/Bigwig-Club/Account-Switcher) 启发，感谢原项目作者与贡献者。App Store 地区清单参考 [Apple 的媒体服务可用性页面](https://support.apple.com/en-us/118205)。
+AccountSwitch 使用 [Apache License 2.0](LICENSE)。
+
+账号列表与切换流程的设计参考了 Licardo 和 Bigwig Club 贡献者的 [Account-Switcher v1.2.0](https://github.com/Bigwig-Club/Account-Switcher/tree/v1.2.0)。原项目用于快速切换多个 Mac App Store 账号，减少手动退出与重新登录的步骤，账号数据保存在本机。该版本的许可为 [Apache License 2.0](https://github.com/Bigwig-Club/Account-Switcher/blob/v1.2.0/LICENSE)。感谢原项目作者与贡献者。
+
+App Store 地区清单参考 [Apple 的媒体服务可用性页面](https://support.apple.com/en-us/118205)。
